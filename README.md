@@ -1,4 +1,4 @@
-# alura-tracker
+# project-tracker-vuex-composition-api
 
 ## Project setup
 ```
